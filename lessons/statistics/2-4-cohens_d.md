@@ -5,11 +5,11 @@ firsts.totalwgt_lb.mean(), others.totalwgt_lb.mean()
 (7.20109, 7.32585)
 Shows that first babies are lighter than others 
 
-Cohen's d for difference between groups:
+>> Cohen's d for difference between groups:
 CohenEffectSize(first.totalwgt_lb, others.totalwgt_lb)
 (-0.08867)
 
-Cohen's d for difference in pregnancy length:
+>> Cohen's d for difference in pregnancy length:
 CohenEffectSize(firsts.prglngth, others.prglngth)
 (0.028879)
-The chonen effect for the difference in pregnancy length is much stronger than the effect for the difference in total weight 
+The Cohen Effect for the difference in pregnancy length is much stronger than the effect for the difference in total weight 
